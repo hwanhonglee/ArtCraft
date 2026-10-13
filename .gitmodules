@@ -1,0 +1,64 @@
+[submodule "apps/photocraft"]
+	path = apps/photocraft
+	url = https://github.com/hwanhonglee/photocraft.git
+	branch = main
+
+[submodule "apps/lightcraft"]
+	path = apps/lightcraft
+	url = https://github.com/hwanhonglee/lightcraft.git
+	branch = main
+
+[submodule "apps/vectorcraft"]
+	path = apps/vectorcraft
+	url = https://github.com/hwanhonglee/vectorcraft.git
+	branch = main
+
+[submodule "apps/filmcraft"]
+	path = apps/filmcraft
+	url = https://github.com/hwanhonglee/filmcraft.git
+	branch = main
+
+[submodule "apps/effectcraft"]
+	path = apps/effectcraft
+	url = https://github.com/hwanhonglee/effectcraft.git
+	branch = main
+
+[submodule "apps/designcraft"]
+	path = apps/designcraft
+	url = https://github.com/hwanhonglee/designcraft.git
+	branch = main
+
+[submodule "apps/figcraft"]
+	path = apps/figcraft
+	url = https://github.com/hwanhonglee/figcraft.git
+	branch = main
+
+[submodule "apps/wordcraft"]
+	path = apps/wordcraft
+	url = https://github.com/hwanhonglee/wordcraft.git
+	branch = main
+
+[submodule "apps/gridcraft"]
+	path = apps/gridcraft
+	url = https://github.com/hwanhonglee/gridcraft.git
+	branch = main
+
+[submodule "apps/deckcraft"]
+	path = apps/deckcraft
+	url = https://github.com/hwanhonglee/deckcraft.git
+	branch = main
+
+[submodule "apps/pdfcraft"]
+	path = apps/pdfcraft
+	url = https://github.com/hwanhonglee/pdfcraft.git
+	branch = main
+
+[submodule "apps/soundcraft"]
+	path = apps/soundcraft
+	url = https://github.com/hwanhonglee/soundcraft.git
+	branch = main
+
+[submodule "apps/cadcraft"]
+	path = apps/cadcraft
+	url = https://github.com/hwanhonglee/cadcraft.git
+	branch = main
