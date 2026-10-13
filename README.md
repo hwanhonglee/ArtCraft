@@ -8,6 +8,7 @@ ArtCraft 팀의 오픈소스 편집 앱 13개를 `hwanhonglee` 계정으로 포�
 - [Windows 설치·소스 실행](docs/WINDOWS.md)
 - [원본·포크·고정 커밋·설치 버전](docs/SOURCES.md)
 - [업데이트 방법](docs/UPDATES.md)
+- [구성 검증 결과](docs/VERIFICATION.md)
 - [라이선스·상표 조건](LICENSE-NOTICE.md)
 
 ## 13개 앱

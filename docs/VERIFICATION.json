@@ -1,0 +1,105 @@
+{
+  "checked_at": "2026-10-13T10:51:09.729885+00:00",
+  "forks": [
+    {
+      "name": "photocraft",
+      "fork": "hwanhonglee/photocraft",
+      "parent": "storytold/photocraft",
+      "commit": "6f85054288a564f9fbbccb99268ffdb34e581584",
+      "verified": true
+    },
+    {
+      "name": "lightcraft",
+      "fork": "hwanhonglee/lightcraft",
+      "parent": "storytold/lightcraft",
+      "commit": "b3d392b4994ee99dc389890f006600769d0c4ff5",
+      "verified": true
+    },
+    {
+      "name": "vectorcraft",
+      "fork": "hwanhonglee/vectorcraft",
+      "parent": "storytold/vectorcraft",
+      "commit": "0d0ea352df99044589a7ce0efc7004f7a5b6b7c0",
+      "verified": true
+    },
+    {
+      "name": "filmcraft",
+      "fork": "hwanhonglee/filmcraft",
+      "parent": "storytold/filmcraft",
+      "commit": "cee1feb185e675a108f78067f71ad86a640ace3d",
+      "verified": true
+    },
+    {
+      "name": "effectcraft",
+      "fork": "hwanhonglee/effectcraft",
+      "parent": "storytold/effectcraft",
+      "commit": "549e9d825132986d6167c1432cd3328efcbb0278",
+      "verified": true
+    },
+    {
+      "name": "designcraft",
+      "fork": "hwanhonglee/designcraft",
+      "parent": "storytold/designcraft",
+      "commit": "e862e0a613c0793c6fea7cfd37ad4145ed6cf686",
+      "verified": true
+    },
+    {
+      "name": "figcraft",
+      "fork": "hwanhonglee/figcraft",
+      "parent": "storytold/figcraft",
+      "commit": "e56856f4016c76fbc862ac2fb4fd3fb43a68f396",
+      "verified": true
+    },
+    {
+      "name": "wordcraft",
+      "fork": "hwanhonglee/wordcraft",
+      "parent": "storytold/wordcraft",
+      "commit": "159b84f54c74e9e82fb3109b758ae7dd6f4e3ab0",
+      "verified": true
+    },
+    {
+      "name": "gridcraft",
+      "fork": "hwanhonglee/gridcraft",
+      "parent": "storytold/gridcraft",
+      "commit": "84acf6293b1dc1fc09837524e035d674eb4d6741",
+      "verified": true
+    },
+    {
+      "name": "deckcraft",
+      "fork": "hwanhonglee/deckcraft",
+      "parent": "storytold/deckcraft",
+      "commit": "d5e30557eb9a846cd3eda43aa1552d88e25339b3",
+      "verified": true
+    },
+    {
+      "name": "pdfcraft",
+      "fork": "hwanhonglee/pdfcraft",
+      "parent": "storytold/pdfcraft",
+      "commit": "7437bde378f43856eada40af25b983812e615e8a",
+      "verified": true
+    },
+    {
+      "name": "soundcraft",
+      "fork": "hwanhonglee/soundcraft",
+      "parent": "storytold/soundcraft",
+      "commit": "a96cf50a3a661edbe1541af6a0c709735082e0f0",
+      "verified": true
+    },
+    {
+      "name": "cadcraft",
+      "fork": "hwanhonglee/cadcraft",
+      "parent": "storytold/cadcraft",
+      "commit": "033ee15e0146eac3a686c832580fdd804542fe13",
+      "verified": true
+    }
+  ],
+  "gitlinks": 13,
+  "app_guides": 13,
+  "relative_links": "passed",
+  "github_readme_html": "passed",
+  "recursive_clone": "passed",
+  "source_checkouts": 13,
+  "windows_build": "not_run",
+  "app_execution": "not_run",
+  "application_file_compatibility": "not_tested"
+}
